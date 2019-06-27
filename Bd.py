@@ -1,0 +1,3 @@
+
+def uploadLocalizacoes(path):
+    return
